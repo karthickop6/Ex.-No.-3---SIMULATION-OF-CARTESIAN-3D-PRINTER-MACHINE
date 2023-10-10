@@ -61,7 +61,7 @@
 ## Output:
 ![image](https://github.com/karthickop6/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/72570119/e9c63b4f-512d-4a09-b50a-19932270b52b)
 
-### Name: Lokesh Rahul V V
+### Name: Karthick P
 ### Register Number: 212222100021
 
 ## Result: 
